@@ -9,3 +9,6 @@
 	path = sm6
 	url = git@github.com:AlexYegupov/test_sm.git
 	branch = master
+[submodule "smno"]
+	path = smno
+	url = git@github.com:AlexYegupov/test_sm.git
