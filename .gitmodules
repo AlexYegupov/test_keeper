@@ -1,0 +1,4 @@
+[submodule "test_sm"]
+	path = test_sm
+	url = git@github.com:AlexYegupov/test_sm.git
+	branch = master
