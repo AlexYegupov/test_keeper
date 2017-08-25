@@ -5,3 +5,7 @@
 [submodule "sm5"]
 	path = sm5
 	url = git@github.com:AlexYegupov/test_sm.git
+[submodule "sm6"]
+	path = sm6
+	url = git@github.com:AlexYegupov/test_sm.git
+	branch = master
